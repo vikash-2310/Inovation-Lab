@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            color: rgb(10, 152, 235);
+        }
+        h3{
+            color: rgb(8, 1, 5);
+        }
+        h3,h4{
+            color: rgb(6, 27, 148);
+        }
+        #ana{
+            color: darkred;
+        }
+        .head{
+            color:green;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="head">heading 1</h1>
+    <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex voluptate sequi ad quibusdam, vero eveniet laborum accusantium? Eligendi iste deleniti quis ducimus nam, itaque, aperiam dolorum ipsam eveniet voluptatum voluptatibus?</h2>
+    <h3> heyy buddy</h3>
+    <h4> manchester united</h4>
+    <h5 id="ana"> real madrid</h5>
+    <h5 class="head"> argentina </h5>
+</body>
+</html>
